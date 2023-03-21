@@ -4,35 +4,35 @@
 
     <div class="jumbotron">
         <h1>Primer uso de APS.NET</h1>
-        <p class="lead">ASP.NET is a free web framework for building great Web sites and Web applications using HTML, CSS, and JavaScript.</p>
-        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">Learn more &raquo;</a></p>
+        <p class="lead">Primer uso de ASP.NET, en este ejemplo hago un CRUD en la pestaña de empleados conectandome a una base de datos. He usado: HTML, CSS, and JavaScript.</p>
+        <p><a href="http://www.asp.net" class="btn btn-primary btn-lg">APS.NET link &raquo;</a></p>
     </div>
 
     <div class="row">
         <div class="col-md-4">
-            <h2>Getting started</h2>
+            <h2>Empezando...</h2>
             <p>
                 Aplicación de prueba</p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Learn more &raquo;</a>
+                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301948">Link info &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
-            <h2>Get more libraries</h2>
+            <h2>Consigue más librerías</h2>
             <p>
-                NuGet is a free Visual Studio extension that makes it easy to add, remove, and update libraries and tools in Visual Studio projects.
+                NuGet es una extensión gratutita de Visual Studio que hace fácil el añadir, quitar y actualizar librerías y herramientas en los proyectos de Visual Studio.
             </p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Learn more &raquo;</a>
+                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301949">Más &raquo;</a>
             </p>
         </div>
         <div class="col-md-4">
             <h2>Web Hosting</h2>
             <p>
-                You can easily find a web hosting company that offers the right mix of features and price for your applications.
+                Pincha aquí para encontrar host que ofrezcan las caracteristicas que necesites para tus aplicaciones.
             </p>
             <p>
-                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Learn more &raquo;</a>
+                <a class="btn btn-default" href="https://go.microsoft.com/fwlink/?LinkId=301950">Más aquí &raquo;</a>
             </p>
         </div>
     </div>
