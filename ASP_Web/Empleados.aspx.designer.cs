@@ -42,13 +42,13 @@ namespace ASP_Web
         protected global::System.Web.UI.WebControls.Label LabelNombres;
 
         /// <summary>
-        /// TextNombres control.
+        /// txt_nombre control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextNombres;
+        protected global::System.Web.UI.WebControls.TextBox txt_nombre;
 
         /// <summary>
         /// Label_apellidos control.
@@ -60,13 +60,13 @@ namespace ASP_Web
         protected global::System.Web.UI.WebControls.Label Label_apellidos;
 
         /// <summary>
-        /// Txt_apellidos control.
+        /// txt_apellidos control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Txt_apellidos;
+        protected global::System.Web.UI.WebControls.TextBox txt_apellidos;
 
         /// <summary>
         /// Label_direccion control.
@@ -78,13 +78,13 @@ namespace ASP_Web
         protected global::System.Web.UI.WebControls.Label Label_direccion;
 
         /// <summary>
-        /// Txt_direccioni control.
+        /// txt_direccion control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox Txt_direccioni;
+        protected global::System.Web.UI.WebControls.TextBox txt_direccion;
 
         /// <summary>
         /// Label_telefono control.
@@ -96,13 +96,13 @@ namespace ASP_Web
         protected global::System.Web.UI.WebControls.Label Label_telefono;
 
         /// <summary>
-        /// TextBox_telefono control.
+        /// txt_telefono control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox_telefono;
+        protected global::System.Web.UI.WebControls.TextBox txt_telefono;
 
         /// <summary>
         /// Label_fecha control.
@@ -114,13 +114,13 @@ namespace ASP_Web
         protected global::System.Web.UI.WebControls.Label Label_fecha;
 
         /// <summary>
-        /// TextBox_fecha control.
+        /// txt_fecha control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.TextBox TextBox_fecha;
+        protected global::System.Web.UI.WebControls.TextBox txt_fecha;
 
         /// <summary>
         /// lbl_puesto control.
@@ -157,6 +157,15 @@ namespace ASP_Web
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
         protected global::System.Web.UI.WebControls.Button Btn_actualizar;
+
+        /// <summary>
+        /// lbl_mensaje control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.Label lbl_mensaje;
 
         /// <summary>
         /// grid_empleados control.
